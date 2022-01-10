@@ -1,5 +1,6 @@
 # Burstin' Tunes!
 A simulation of the arcade game Pop'n Music; implemented through the Unity Engine.
+Early alpha version.
 
 # Frequently Asked Questions (or not)
 #### Why is this character associated with this song?
