@@ -3,6 +3,9 @@ An open-source simulation of the Konami arcade game Pop'n Music; implemented thr
 
 Early alpha version.
 
+# Demonstration
+[![Watch the video](https://img.youtube.com/vi/q8r-5SBzX4A/maxresdefault.jpg)](https://youtu.be/q8r-5SBzX4A)
+
 # Gameplay
 9 buttons:
 >A, S, D, F, G, H, J, K, L
