@@ -11,6 +11,7 @@ Early alpha version.
 >A, S, D, F, G, H, J, K, L
 
 ```insert``` to autoplay.
+I recommend you hold four fingers on each side of the keyboard; and press the middle button G when prompted to, by moving your index finger
 
 # Editor-Installation
 For now, this is not a package.
