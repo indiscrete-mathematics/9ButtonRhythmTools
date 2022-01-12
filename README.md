@@ -23,7 +23,7 @@ An hidden but open-source simulation of Pop'n Music 10; implemented through the 
 - Characters: Original and, in the case of everyone other than the demo character, arbitrarily chosen
 
 Early alpha version.
-[![Watch the video](https://img.youtube.com/vi/q8r-5SBzX4A/maxresdefault.jpg)](https://youtu.be/q8r-5SBzX4A)
+[![Watch the video](https://img.youtube.com/vi/lLMMvGufHK8/maxresdefault.jpg)](https://youtu.be/lLMMvGufHK8)
 
 # Frequently Asked Questions (or not)
 #### In Burstin' Tunes, why is this character associated with this sample song?
