@@ -1,10 +1,5 @@
-# Burstin' Tunes!
-An open-source simulation of the Konami arcade game Pop'n Music; implemented through the Unity Engine.
-
-Early alpha version.
-
-# Demonstration
-[![Watch the video](https://img.youtube.com/vi/q8r-5SBzX4A/maxresdefault.jpg)](https://youtu.be/q8r-5SBzX4A)
+# Unity Engine 9-Button Rhythm Game Tools
+Scripts used for a 9-button rhythm game which simulates Konami arcade series Pop'n Music.
 
 # Gameplay
 9 buttons:
@@ -18,16 +13,23 @@ For now, this is not a package.
 
 Simply copy the contents to a desired location and open scenes in Unity editor as you would any other project.
 
-# Music and Sounds Used
+# Burstin' Tunes!
+An hidden but open-source simulation of Pop'n Music 10; implemented through the Unity Engine.
+
 - Sound Effects: https://freesound.org/people/LittleRobotSoundFactory/packs/16681/
 - Character Selection Screen: https://www.youtube.com/watch?v=OVTrmu-TblM
 - Sample Song: https://www.youtube.com/watch?v=p04hGtAvu7c
+- Fonts: Serpentine, BaDaBoom
+- Characters: Original and, in the case of everyone other than the demo character, arbitrarily chosen
+
+Early alpha version.
+[![Watch the video](https://img.youtube.com/vi/q8r-5SBzX4A/maxresdefault.jpg)](https://youtu.be/q8r-5SBzX4A)
 
 # Frequently Asked Questions (or not)
-#### Why is this character associated with this sample song?
+#### In Burstin' Tunes, why is this character associated with this sample song?
 I lifted the note map of P'nM 10's "Goonies R Good Enough", so it would seem reasonable to draw the characters of that game too... but I've never seen Goonies so I didn't feel eligible to incorporate Mikey in this simulator. But I am an occasional fan of 80s music, so I instead chose a character who coincidentally looked like Cyndi Lauper.
 
-#### What improvement does this game have over Lunatic Rave 2? What is the difference?
+#### What improvement does this implementation have over Lunatic Rave 2? What is the difference?
 For the most part - I wouldn't know, I've never played LR2 (but it looks amazingly polished and the community seems helpful; I'm inclined to say there is no improvement.) What I do know is; this project is implemented in the Unity editor.
 
 #### Is this game really open source?
