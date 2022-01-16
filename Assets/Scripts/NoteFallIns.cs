@@ -14,9 +14,10 @@ public class NoteFallIns : MonoBehaviour
 	public int ScoreTotal;
 
     // This script will simply instantiate the Prefab when the game starts.
+    //A test
     void Start()
     {
-		ScoreTotal = 2;
+		ScoreTotal = 3;
 		
         Invoke("M", 2.0f);
 		Invoke("M", 4.0f);
