@@ -1,5 +1,8 @@
 using UnityEngine;
 
+// Mr. T/ Cyndi Lauper - Goonies 'R' Good Enough (Pop'n Music 10)
+//This is the song used in the Burstin' Tunes demo
+
 public class NoteFallIns_Song01 : MonoBehaviour 
 {
     public GameObject PrefabL1;
