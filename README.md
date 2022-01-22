@@ -49,6 +49,11 @@ Since the engine upon which this game is based is in fact not open source; no it
 #### Full game when?
 When I'm less busy + if I don't have a more original idea to work on.
 
+#### Why Unity Engine?
+Because it was the first game engine I learned about and had access to.
+
+Not much else of an excuse.
+
 #### Where can we play Pop'n Music?
 If you do not have access to an arcade cabinet I would recommend buying a PlayStation console release and maybe a Pop'n Music controller. Even if you do not have a PlayStation you can legally emulate the game by building a ROM/disc image from your purchased game.
 
